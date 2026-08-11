@@ -1,2 +1,2 @@
-# Strudy
+# Study
 Backend
